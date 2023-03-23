@@ -1,4 +1,4 @@
-package chap12;
+package part2.chap12;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +15,7 @@ public class BubbleSort {
                     list.set(j + 1, buffer);
                     swap = true;
                 }
-                if (swap == false) {
+                if (!swap) {
                     break;
                 }
             }

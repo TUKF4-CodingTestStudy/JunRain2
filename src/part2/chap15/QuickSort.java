@@ -1,4 +1,4 @@
-package chap15;
+package part2.chap15;
 
 import java.util.Collection;
 import java.util.LinkedList;
