@@ -5,8 +5,6 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-import static java.awt.geom.Rectangle2D.union;
-
 public class Kruskal {
     static HashMap<Character, Character> parent = new HashMap<>();
     static HashMap<Character, Integer> rank = new HashMap<>();
