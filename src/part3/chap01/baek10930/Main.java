@@ -1,4 +1,4 @@
-package part3.chap02.baek10930;
+package part3.chap01.baek10930;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package part3.chap02.baek4195;
+package part3.chap01.baek4195;
 
 import java.io.*;
 import java.util.HashMap;
