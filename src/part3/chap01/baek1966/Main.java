@@ -1,4 +1,4 @@
-package part3.chap01.baek1996;
+package part3.chap01.baek1966;
 
 import java.util.Scanner;
 
