@@ -35,3 +35,5 @@ public class Main {
         System.out.println(result);  // 결과값 출력
     }
 }
+
+// 최소값과 최대값을 줄여나가면서 중간값을 찾기 때문에 이진탐색
